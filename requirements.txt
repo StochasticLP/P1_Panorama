@@ -1,0 +1,7 @@
+ipykernel
+jupyter_client
+gdown
+numpy
+matplotlib
+scipy
+opencv-python
